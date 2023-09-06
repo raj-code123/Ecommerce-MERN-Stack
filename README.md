@@ -1,5 +1,5 @@
-# Flipkart-MERN
-Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
+# Ecommerce Platform with Admin Panel
+The E-commerce Platform with Admin Panel is a comprehensive web application designed to facilitate online shopping for customers while providing an efficient management system for administrators. It leverages the MERN (MongoDB, Express.js, React, Node.js) stack for robust and scalable development.
 
 [Visit Now](https://ecommerce-codewithzosh.vercel.app/) 🚀
 
@@ -29,26 +29,31 @@ razorpay
 vercel
 
 ## 🚀 Features
-- Login/Signup User Account
-- Update Profile/Password User Account
-- Reset Password Mail using Sendgrid
-- Cart Add/Remove Items | Update Quantities
-- Save For Later Add/Remove Items
-- Wishlist Add/Remove Items
-- Products Pagination (Default 12 Products Per Page)
-- Product Search
-- Product Filters Based on Category/Ratings | Price Range
-- Shipping Info in Session Storage
-- My Orders (With All Filters)
-- Order Details of All Ordered Items
-- Users will receive mail when an order is placed with all details
-- Review Products User Account
-- Admin: Dashboard access to only admin roles
-- Admin: Update Order Status | Delete Order
-- Admin: Add/Update Products
-- Admin: Update User Data | Delete User
-- Admin: List Review of Product | Delete Review
-- Stock Management: Decrease stock of product when shipped
+- User Authentication: Implement user registration and login functionality for customers. Admins can also log in securely to access the admin panel.
+
+- Product Catalog: Display a wide range of products with detailed information, including images, descriptions, prices, and availability status.
+
+- Shopping Cart: Allow customers to add and remove products from their shopping carts. Calculate and display the total order amount.
+
+- Checkout and Payment: Enable customers to proceed to checkout, enter shipping information, and make payments securely using various payment gateways (e.g., Stripe, PayPal).
+
+- Order Tracking: Provide order tracking functionality for customers to monitor the status of their orders, including shipping and delivery updates.
+
+- User Reviews and Ratings: Allow customers to leave product reviews and ratings. Display average product ratings and customer feedback.
+
+- Search and Filters: Implement search functionality and product filters to help customers find products easily based on categories, prices, brands, and more.
+
+- Admin Dashboard: Provide a feature-rich admin dashboard for administrators to manage products, categories, orders, and customer data.
+
+- Product Management: Admins can add, edit, and delete products, update product details, and manage inventory levels.
+
+- Order Management: Admins can view and manage customer orders, change order statuses, and generate invoices for orders.
+
+- Customer Management: Admins can manage customer accounts, including user roles, view order histories, and respond to customer inquiries.
+
+- Analytics and Reports: Generate sales reports, track revenue, and monitor customer activity to gain insights into the business's performance.
+
+- Security: Implement security measures, such as data encryption, to protect user and payment information.
 
 ## Sneak Peek of Admin Dashboard 🙈 :
 ![admin panel](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/f594558e-8520-4e54-bd90-e31ce7ce0d4c)
