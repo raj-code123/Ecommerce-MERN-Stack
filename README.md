@@ -55,11 +55,10 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 ## Sneak Peek of Admin Dashboard 🙈 :
 ![admin panel](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/f594558e-8520-4e54-bd90-e31ce7ce0d4c)
-![screenshort 1](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e)
 
 <table>
   <tr>
-    <td><img src="(https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e)" alt="mockup" /></td>
+    <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
   </tr>
   <tr>
