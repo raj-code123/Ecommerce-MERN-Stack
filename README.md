@@ -1,7 +1,7 @@
 # Flipkart-MERN
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
-[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀
+[Visit Now](https://ecommerce-codewithzosh.vercel.app/) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -22,14 +22,11 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 **Payment Gateway:**
 
-![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
+razorpay
 
 **Deployed On:**
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-**Image Management:** [Cloudinary](https://cloudinary.com/)
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
+vercel
 
 ## 🚀 Features
 - Login/Signup User Account
