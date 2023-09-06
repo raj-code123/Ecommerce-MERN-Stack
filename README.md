@@ -44,7 +44,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Shipping Info in Session Storage
 - My Orders (With All Filters)
 - Order Details of All Ordered Items
-- Users will receive mail when an order placed with all details
+- Users will receive mail when an order is placed with all details
 - Review Products User Account
 - Admin: Dashboard access to only admin roles
 - Admin: Update Order Status | Delete Order
@@ -56,24 +56,23 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 ## Sneak Peek of Admin Dashboard 🙈 :
 ![admin panel](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/f594558e-8520-4e54-bd90-e31ce7ce0d4c)
 
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
-  </tr>
-</table>
+![screenshort 1](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/7a9bc17c-f259-423a-9c64-cf46a090353a)
+
+![screenshort 2](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/15696d3a-6005-4381-93d0-90b483c27b0b)
+
+![screenshort 3](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/5c517e72-cc8b-41c7-bb9f-f5d168875a8b)
+
+![screenshort 4](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/bdb3b334-6f4c-4950-af0f-3414b6829ac9)
+
+![screenshort 5](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/5c050877-b0bd-4db8-8fcd-8f5812f8447e)
+
+![payment link](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/b128a81d-3960-4b9f-8c3b-44d030fa8951)
 
 <h2>📬 Contact</h2>
 
 If you'd like to contact me, please feel free to reach me through the handles below.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-dudhatra)
 
-© 2022 Jigar Sable
+© 2023 Raj Dudhatra
 
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
