@@ -2,6 +2,20 @@
 The E-commerce Platform with Admin Panel is a comprehensive web application designed to facilitate online shopping for customers while providing an efficient management system for administrators. It leverages the MERN (MongoDB, Express.js, React, Node.js) stack for robust and scalable development.
 
 [Visit Now](https://ecommerce-codewithzosh.vercel.app/) 🚀
+## Installation
+
+Install backend-zip and frontend-zip folder 
+
+```bash
+  npm install 
+  npm start
+```
+# Admin panel
+
+Email - codewithzosh@gmail.com
+
+Password - 12345678
+
 
 ## 🖥️ Tech Stack
 **Frontend:**
