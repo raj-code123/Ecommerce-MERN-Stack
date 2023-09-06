@@ -43,8 +43,8 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Product Filters Based on Category/Ratings | Price Range
 - Shipping Info in Session Storage
 - My Orders (With All Filters)
-- Order Details of All Ordered Item
-- Users will receive mail when order placed with all details
+- Order Details of All Ordered Items
+- Users will receive mail when an order placed with all details
 - Review Products User Account
 - Admin: Dashboard access to only admin roles
 - Admin: Update Order Status | Delete Order
@@ -54,11 +54,12 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: Decrease stock of product when shipped
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
+![admin panel](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/f594558e-8520-4e54-bd90-e31ce7ce0d4c)
+![screenshort 1](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e)
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg" alt="mockup" /></td>
+    <td><img src="(https://user-images.githubusercontent.com/64949957/153995383-367cbcc0-cce5-4523-a999-b8d92e44d6ab.jpg](https://github.com/raj-code123/Ecommerce-MERN-Stack/assets/61547737/1ba31b65-e5bb-4af7-b867-18006b5db00e)" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
   </tr>
   <tr>
@@ -69,7 +70,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+If you'd like to contact me, please feel free to reach me through the handles below.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
 
